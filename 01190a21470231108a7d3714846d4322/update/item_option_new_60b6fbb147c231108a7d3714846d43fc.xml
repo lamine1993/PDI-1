@@ -75,16 +75,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-10-23 23:11:13</sys_created_on>
+        <sys_created_on>2023-10-23 23:23:43</sys_created_on>
         <sys_id>60b6fbb147c231108a7d3714846d43fc</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Main demand indicator</sys_name>
         <sys_package display_value="SOH" source="x_674735_soh">01190a21470231108a7d3714846d4322</sys_package>
         <sys_policy/>
         <sys_scope display_value="SOH">01190a21470231108a7d3714846d4322</sys_scope>
         <sys_update_name>item_option_new_60b6fbb147c231108a7d3714846d43fc</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-10-23 23:22:53</sys_updated_on>
+        <sys_updated_on>2023-10-23 23:48:33</sys_updated_on>
         <table/>
         <tooltip/>
         <type>7</type>

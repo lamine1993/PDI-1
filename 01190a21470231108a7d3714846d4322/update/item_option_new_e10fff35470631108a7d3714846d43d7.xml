@@ -26,7 +26,7 @@
         <help_tag>More information</help_tag>
         <help_text/>
         <hidden>false</hidden>
-        <include_none>false</include_none>
+        <include_none>true</include_none>
         <instructions/>
         <layout>normal</layout>
         <list_table/>
@@ -41,13 +41,13 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>u_afh_number</name>
-        <order>100</order>
+        <name>u_resubmission_origin</name>
+        <order>600</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>AFh Number</question_text>
+        <question_text>Resubmission origin</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -75,19 +75,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-10-23 23:23:43</sys_created_on>
-        <sys_id>7f2c4aa1474231108a7d3714846d430d</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>AFh Number</sys_name>
+        <sys_created_on>2023-10-23 23:27:55</sys_created_on>
+        <sys_id>e10fff35470631108a7d3714846d43d7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Resubmission origin</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="SOH">01190a21470231108a7d3714846d4322</sys_scope>
-        <sys_update_name>item_option_new_7f2c4aa1474231108a7d3714846d430d</sys_update_name>
+        <sys_update_name>item_option_new_e10fff35470631108a7d3714846d43d7</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-10-23 23:48:32</sys_updated_on>
+        <sys_updated_on>2023-10-23 23:48:33</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>6</type>
+        <type>5</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -103,22 +103,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=7f2c4aa1474231108a7d3714846d430d"/>
-    <fx_price action="delete_multiple" query="id=7f2c4aa1474231108a7d3714846d430d"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=e10fff35470631108a7d3714846d43d7"/>
+    <fx_price action="delete_multiple" query="id=e10fff35470631108a7d3714846d43d7"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>7f2c4aa1474231108a7d3714846d430d</id>
+        <id>e10fff35470631108a7d3714846d43d7</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-10-22 20:26:05</sys_created_on>
-        <sys_id>815ccea1474231108a7d3714846d43e2</sys_id>
+        <sys_created_on>2023-10-23 23:27:55</sys_created_on>
+        <sys_id>c68ff3f5470631108a7d3714846d4398</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-10-22 20:26:05</sys_updated_on>
+        <sys_updated_on>2023-10-23 23:27:55</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -126,16 +126,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>7f2c4aa1474231108a7d3714846d430d</id>
+        <id>e10fff35470631108a7d3714846d43d7</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-10-22 20:26:05</sys_created_on>
-        <sys_id>4d5ccea1474231108a7d3714846d43e0</sys_id>
+        <sys_created_on>2023-10-23 23:27:55</sys_created_on>
+        <sys_id>828ff3f5470631108a7d3714846d4397</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-10-22 20:26:05</sys_updated_on>
+        <sys_updated_on>2023-10-23 23:27:55</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>

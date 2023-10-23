@@ -97,7 +97,7 @@ current.numero_reference_courtier = producer.u_reference_courtier;
         <sys_scope display_value="SOH">01190a21470231108a7d3714846d4322</sys_scope>
         <sys_update_name>sc_cat_item_producer_658bce21474231108a7d3714846d434d</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-10-23 23:22:54</sys_updated_on>
+        <sys_updated_on>2023-10-23 23:48:34</sys_updated_on>
         <table_name>x_674735_soh_case_soh</table_name>
         <taxonomy_topic/>
         <template/>
