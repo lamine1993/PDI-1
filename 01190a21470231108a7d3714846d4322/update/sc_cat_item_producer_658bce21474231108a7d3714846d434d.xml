@@ -6,7 +6,7 @@
         <availability>on_desktop</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
-        <category/>
+        <category display_value="Services">109f0438c6112276003ae8ac13e7009d</category>
         <checked_out>false</checked_out>
         <cost>0</cost>
         <custom_cart/>
@@ -68,7 +68,7 @@
 * To access the variables, use `producer.var1` where var1 is the name of the variable
 * To access the Record Producer use `cat_item`
 */]]></save_script>
-        <sc_catalogs/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <sc_template/>
@@ -78,7 +78,10 @@
 * Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
 * Avoid `current.setAbortAction()` and generate a separate record
 * Use `producer.var1` to access variables
-*/]]></script>
+*/
+current.afh_number = producer.u_afh_number;
+current.numero_reference_courtier = producer.u_reference_courtier;
+]]></script>
         <short_description>Formulaire de request OHP</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
@@ -87,14 +90,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-10-22 20:23:41</sys_created_on>
         <sys_id>658bce21474231108a7d3714846d434d</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Request OHP</sys_name>
         <sys_package display_value="SOH" source="x_674735_soh">01190a21470231108a7d3714846d4322</sys_package>
         <sys_policy/>
         <sys_scope display_value="SOH">01190a21470231108a7d3714846d4322</sys_scope>
         <sys_update_name>sc_cat_item_producer_658bce21474231108a7d3714846d434d</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-10-22 20:29:12</sys_updated_on>
+        <sys_updated_on>2023-10-23 23:22:54</sys_updated_on>
         <table_name>x_674735_soh_case_soh</table_name>
         <taxonomy_topic/>
         <template/>
