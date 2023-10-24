@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Request OHP">658bce21474231108a7d3714846d434d</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-23 23:11:14</sys_created_on>
+        <sys_id>29bb73bd47c231108a7d3714846d434e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Service Catalog.Request OHP</sys_name>
+        <sys_package display_value="SOH" source="x_674735_soh">01190a21470231108a7d3714846d4322</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOH">01190a21470231108a7d3714846d4322</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_29bb73bd47c231108a7d3714846d434e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-23 23:22:52</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SOH">01190a21470231108a7d3714846d4322</application>
+        <file_path/>
+        <instance_id>101c2222dbea9dd48aea21c4059619d8</instance_id>
+        <instance_name>dev140904</instance_name>
+        <name>sc_cat_item_catalog_29bb73bd47c231108a7d3714846d434e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="DELETE"><sc_cat_item display_value="Request OHP">658bce21474231108a7d3714846d434d</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-23 23:11:14</sys_created_on><sys_id>29bb73bd47c231108a7d3714846d434e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Service Catalog.Request OHP</sys_name><sys_package display_value="SOH" source="x_674735_soh">01190a21470231108a7d3714846d4322</sys_package><sys_policy/><sys_scope display_value="SOH">01190a21470231108a7d3714846d4322</sys_scope><sys_update_name>sc_cat_item_catalog_29bb73bd47c231108a7d3714846d434e</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-10-23 23:22:52</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-854216040</payload_hash>
+        <record_name>Service Catalog.Request OHP</record_name>
+        <reverted_from/>
+        <source>b734cc42474631108a7d3714846d431b</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-23 23:48:31</sys_created_on>
+        <sys_id>f734cc42474631108a7d3714846d437b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b5ef0a4fb0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-23 23:48:31</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>7b34cc428b46311064fac02a788fdd7a</update_guid>
+        <update_guid_history>7b34cc428b46311064fac02a788fdd7a:-854216040,006eb73520063110102cbc4457fe5822:-1833592820</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Request OHP">bf34cc42474631108a7d3714846d437e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-23 23:48:31</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>7a1cff1cdc5145e882c08d3a7f92d290</sys_id>
+        <sys_metadata>29bb73bd47c231108a7d3714846d434e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request OHP</sys_name>
+        <sys_package display_value="SOH" source="x_674735_soh">01190a21470231108a7d3714846d4322</sys_package>
+        <sys_parent display_value="Request OHP">658bce21474231108a7d3714846d434d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SOH">01190a21470231108a7d3714846d4322</sys_scope>
+        <sys_scope_delete display_value="">62e2ff482cc34dcc9d5248704327f010</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_29bb73bd47c231108a7d3714846d434e</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_29bb73bd47c231108a7d3714846d434e">f734cc42474631108a7d3714846d437b</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-23 23:48:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

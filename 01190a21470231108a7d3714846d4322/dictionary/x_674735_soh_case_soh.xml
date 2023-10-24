@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="65f98e2d470231108a7d3714846d430a" extends="sn_customerservice_case" label="Case SOH" max_length="40" name="x_674735_soh_case_soh" type="collection">
+        <element label="AFH Number" max_length="40" name="afh_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Numero Reference Courtier" max_length="40" name="numero_reference_courtier" type="string"/>
+        <element label="Resubmission" max_length="40" name="resubmission" type="boolean"/>
+        <element label="Main request Identifier" max_length="40" name="u_mainrequest_identifier" type="string"/>
+        <element label="Main demand indicator" max_length="40" name="u_main_demand_indicator" type="boolean"/>
+        <element choice="1" label="Initial Request Origin" max_length="0" name="u_origin_of_the_initial_request" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CAISSE" value="CAISSE"/>
+                <element inactive_on_update="false" label="MORTGAGE BROKER" value="COURTIER"/>
+                <element inactive_on_update="false" label="MORTGAGE REPRESENTATIVE" value="REPRESENTANT"/>
+                <element inactive_on_update="false" label="SSD" value="SSD"/>
+            </choice>
+        </element>
+        <element choice="1" label="Resubmission origin" max_length="40" name="u_resubmission_origin" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CAISSE" value="CAISSE"/>
+                <element inactive_on_update="false" label="MORTGAGE BROKER" value="COURTIER"/>
+                <element inactive_on_update="false" label="SSD" value="SSD"/>
+            </choice>
+        </element>
+    </element>
+</database>

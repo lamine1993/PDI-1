@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field/>
+        <field>u_resubmission_origin</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -38,7 +38,7 @@
         <macro/>
         <macroponent/>
         <mandatory>false</mandatory>
-        <map_to_field>false</map_to_field>
+        <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>u_resubmission_origin</name>
@@ -56,8 +56,8 @@
         <record/>
         <record_producer_table>x_674735_soh_case_soh</record_producer_table>
         <reference/>
-        <reference_qual>undefined</reference_qual>
-        <reference_qual_condition>undefined</reference_qual_condition>
+        <reference_qual/>
+        <reference_qual_condition/>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
@@ -77,14 +77,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-10-23 23:27:55</sys_created_on>
         <sys_id>e10fff35470631108a7d3714846d43d7</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Resubmission origin</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="SOH">01190a21470231108a7d3714846d4322</sys_scope>
         <sys_update_name>item_option_new_e10fff35470631108a7d3714846d43d7</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-10-23 23:48:33</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-24 00:19:17</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>

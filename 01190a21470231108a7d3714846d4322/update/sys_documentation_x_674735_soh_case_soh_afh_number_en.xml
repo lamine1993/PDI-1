@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="afh_number" label="AFH Number" language="en" table="x_674735_soh_case_soh">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>afh_number</element>
+            <help/>
+            <hint/>
+            <label>AFH Number</label>
+            <language>en</language>
+            <name>x_674735_soh_case_soh</name>
+            <plural>AFH Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-22 20:43:58</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>AFH Number</sys_name>
+            <sys_package display_value="SOH" source="x_674735_soh">01190a21470231108a7d3714846d4322</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SOH">01190a21470231108a7d3714846d4322</sys_scope>
+            <sys_update_name>sys_documentation_x_674735_soh_case_soh_afh_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-22 20:43:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

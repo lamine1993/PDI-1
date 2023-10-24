@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Customer Service" source="sn_customerservice">51d811fad7223100b7490ee60e61034f</dependency>
+        <min_version>23.8.2</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-22 20:15:46</sys_created_on>
+        <sys_id>71f98e2d470231108a7d3714846d43e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="SOH" source="x_674735_soh">01190a21470231108a7d3714846d4322</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-22 20:15:46</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
